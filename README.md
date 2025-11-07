@@ -5,7 +5,7 @@ Brief tools to:
 1. `fetch.py`: fetch accepted/published papers from major ML venues hosted on OpenReview;
 2. `export.py`: build a static webpage listing authors who have published papers on certain topics, according to provided search terms.
 
-An example is provided in [here](authors_topic_linear_attention.html) for authors with papers on linear attention/state-space models.
+An example is provided in [here](https://mutiann.github.io/authors_topic_linear_attention) for authors with papers on linear attention/state-space models.
 
 # Usage
 
